@@ -1,0 +1,149 @@
+.navbar-container{
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  padding-top: 40px;
+  padding-left: 30px;
+}
+.list{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-item{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Orbitron;
+  font-weight: 600;
+  cursor: pointer;
+  list-style-type:none ; 
+}
+.list-item:hover{
+  text-decoration: underline;
+  font-size: 18px;
+}
+.button-group{
+  display: flex; 
+ align-items: center;
+}
+.search-icon{
+  padding-right: 10px;
+}
+.nav-button{
+  background-color: transparent;
+  font-family: Poppins,sans-serif;
+  height: 30px;
+  width: 120px; 
+  border-radius: 8px;
+  border-color: black;
+  margin-right: 50px;
+}
+.hero-container{
+  margin-top: 50px;
+  margin-bottom: 80px;
+  margin-right: 80px;
+  display: flex;
+  position: relative;
+  gap: -5rem;
+}
+.square{
+  position: absolute;
+  bottom: 0px;
+  left: 100px;
+  right: 120px;
+ 
+}
+.hero{
+  width: 380px;
+  padding-top: 80px;
+  margin-left: 100px;
+}
+.square{
+  z-index: -1;
+  position: absolute;
+  top: 200px;
+  margin-left: 50px;
+}
+
+.hero-container-right{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 90px;
+}
+.hero-heading{
+  font-family: Orbitron;
+  font-weight: 900;
+  font-size:40px;
+  width: 80%;
+  padding-left: 150px;
+  padding-top: 130px;
+}
+.hero-description{
+  text-align: center;
+  font-size: 15px;
+  font-family: Poppins,sans-serif;
+  font-weight: 200px;
+  width: 80%;
+  margin-left: 100px;
+}
+.button-email {
+  margin-left: 300px;
+  margin-top: 50px;
+  height: 30px;
+  width: 150px;
+  font-weight: 800;
+  border-radius: 5px;
+  background-color: transparent;
+  font-family: Orbitron;
+}
+.button-join{
+  height: 30px;
+  width: fit-content;
+  font-weight: 800;
+  color: black;
+  border-radius: 5px;
+  font-family: Orbitron;
+}
+.button-email:hover{
+  background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+  .button-join:hover {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+  }
+.contact-heading{
+  margin-left: 400px;
+  margin-top: 90px;
+  margin-bottom: 10px;
+  font-size: 40px;
+  font-family: Poppins , sans-serif;
+  font-weight: 300;
+  color: gray;
+  font-size: 20px;
+}
+.icons{
+  margin-left: 300px;
+  margin-top: 10px;
+ 
+}
+.star{
+  position: absolute;
+  top: 60px;
+  right:8% ;
+}
+.star2{
+  position: absolute;
+  bottom: 0.5rem;
+  left:48% ;
+  width: 50px;
+}
+.globe{
+  position: absolute;
+  top: 20px;
+  left: 59%;
+}
+#icon{
+  padding-right: 20px;
+}
