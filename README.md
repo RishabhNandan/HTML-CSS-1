@@ -1,6 +1,6 @@
 # Trend 2025 | Frontend Web Project
 This is a modern frontend web project designed to showcase upcoming trends for 2025. Built using HTML and CSS, 
-this project features a sleek and responsive UI with a stylish black-and-white theme. The design includes a structured navigation bar,
+this project features a sleek and responsive UI with a stylish black-and-white theme. The design includes a structured navigation bar, 
 a hero section with an image, and interactive buttons for user engagement.
 # About
 This project was developed as part of my frontend web development learning journey. While creating this, 
