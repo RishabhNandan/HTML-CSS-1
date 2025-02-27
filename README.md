@@ -17,6 +17,6 @@ I followed best practices but welcome feedback and suggestions for improvement.
 # Completion & Credits
 This project was completed under the guidance of Vivek Sir and serves as a learning milestone.
 While I have ensured a polished final product, there may still be minor errors. Feedback and suggestions for improvement are welcome.
-  # Screenshot📷
+  # Screenshot
   <img width="949" alt="Screenshot 2025-02-03 002248" src="https://github.com/user-attachments/assets/1be9b10d-22ad-47b0-88ed-8bf568264c4a" />
 
