@@ -7,7 +7,7 @@ This project was developed as part of my frontend web development learning journ
 I followed best practices but welcome feedback and suggestions for improvement.
 # Features
 * Clean and professional UI design
-* Responsive layout for all devices
+* Responsive layout for all devices 
 * Navigation menu with interactive elements
 * Newsletter subscription form
 * Social media integration
